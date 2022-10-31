@@ -1,1 +1,1 @@
-# study-ignite-reactnative-namelist
+# Rocket Seat trail react native - name list exercise
