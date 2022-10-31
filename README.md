@@ -1,0 +1,1 @@
+# study-ignite-reactnative-namelist
